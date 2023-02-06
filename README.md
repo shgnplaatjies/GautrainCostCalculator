@@ -14,11 +14,11 @@ Calculating your Gautrain costs just got a whole lot easier! With this quick Pyt
 
 ## Why?
 
-I created this script to help my fellow BBD colleagues (especially those in the Graduate program) keep track of their transport costs for those sweet, sweet claimbacks. Plus, it's always nice to have a cool tool to calculate your expenses and make sure you're not spending more than you've planned to on the Gautrain!
+I created this script to help my BBD colleagues (especially those in the Graduate program) keep track of their transport costs for those sweet, sweet claimbacks. Plus, it's always nice to have a cool tool to calculate your expenses and make sure you're not spending more than you've planned to on the Gautrain!
 
 ## Limitations
 
-Currently, the script only subtracts R14 reload charges from your history and ignores all other reloads. This is because the Gautrain csv's don't have a distinct Transaction Type for Rail User bus discounts, and it seems like the discount is always R14. Despite this limitation, I am always open to improvements and welcome contributions to enhance the script's functionality.
+Currently, the script only subtracts R14 reload charges from your history and ignores all other reloads. This is because the Gautrain csv's don't have a distinguish between Rail-User Bus discounts and Card Reloads/Top-Ups, and it seems like the discount is always R14.
 
 # License
 
