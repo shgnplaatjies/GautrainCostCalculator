@@ -1,6 +1,6 @@
 # Gautrain Cost Calculator
 
-Calculating your Gautrain costs made easy! All you need to do is download your travel history from the [Gautrain website](https://www.gautrain.co.za/account/travelhistory), rename the file to "data.csv", and run the python script. The script will subtract the Gautrain discount from your history and give you your total cost. It's like having a financial advisor (disclaimer: not financial advice) for your train trips!
+Calculating your Gautrain costs made easy! All you need to do is download your travel history from the [Gautrain website](https://www.gautrain.co.za/account/travelhistory), rename the file to "data.csv", and run the python script. The script will subtract the Gautrain rail user discount from your history and print your total cost. It's like having a financial advisor (disclaimer: not financial advice) for your train trips!
 
 ## Features
 
