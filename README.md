@@ -9,8 +9,8 @@ Calculating your Gautrain costs made easy! All you need to do is download your t
 
 ## Future Plans
 
-- In the future, I plan to make the script work with all .csv files in a directory, so you don't have to rename your file every time.
-- I also have plans to add a prompt for adding boundary days, so you can calculate your costs without having to filter the csv manually.
+- In the future, I plan to make the script work with all .csv files in a directory, so you don't have to rename your file every time. 
+- I also want to add a prompt for adding boundary days, so you can calculate your costs dynamically, without having to filter the csv manually.
 
 ## Why?
 
