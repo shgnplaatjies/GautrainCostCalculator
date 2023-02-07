@@ -18,7 +18,7 @@ I created this script to keep track of my transport costs for those sweet, sweet
 
 ## Limitations
 
-Currently, the script only subtracts R14 reload charges from your history and it ignores all other reloads. Because Gautrain csv's don't have a distinguish between Rail-User Bus discounts and Card Reloads/Top-Ups, and it seems like the discount is always R14.
+Currently, the script only subtracts R14 reload charges from your history and it ignores all other reloads. Because Gautrain csv's don't distinguish between Rail-User Bus discounts and Card Reloads/Top-Ups, and it seems like the discount is always R14.
 
 # License
 
