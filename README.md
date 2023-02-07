@@ -14,7 +14,7 @@ Calculating your Gautrain costs made easy! All you need to do is download your t
 
 ## Why?
 
-I created this script to help my BBD colleagues (especially those in the Graduate program) keep track of their transport costs for those sweet, sweet claimbacks. Also, it's pretty nice to have a quick tool to calculate your expenses and make sure you're not spending more than you've planned to on the Gautrain.
+I created this script to keep track of my transport costs for those sweet, sweet claimbacks. Also, it's pretty nice to have a quick tool to calculate your expenses and make sure you're not spending more than you've planned to on the Gautrain.
 
 ## Limitations
 
@@ -26,4 +26,4 @@ This project is under the MIT License, so it's free and open-source for everyone
 
 # tldr;
 
-This script automates the process of calculating your Gautrain costs for those BBD claimbacks we all appreciate, no more scrolling through long Gautrain slips.
+This script automates the process of calculating your Gautrain costs for those claims we all appreciate, no more scrolling through long Gautrain slips.
