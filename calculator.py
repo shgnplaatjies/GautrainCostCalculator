@@ -29,4 +29,7 @@ if __name__ == "__main__":
 
     for file in filesList:
         if bool(re.search(r"^[0-9A-Za-z)\s$(+*'\"_\-]+\.csv$", file)): #any file with ".csv" at the end, and at least 1 character as it's name. Using '[.]' isn't working, so missing some legal special characters
-            calculate_costs(file)
+            try:
+                calculate_costs(file)
+            except: 
+                print("Invalid CSV file:", file)
