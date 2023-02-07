@@ -20,9 +20,11 @@ def calculate_costs(filename = 'data.csv'):
         elif (row["Transaction Type"] == "CSC tPurse Product Reload") and (trans_value == 14): #discount is always R14
             spent -= trans_value
             
-            
-    print("Calculated using file:",filename,"\nTimeline:", data[-1]["TransactionÂ\xa0Date"], " - ", data[0]["TransactionÂ\xa0Date"], "\nSpent: R", spent, "\n")
-
+    
+    try:        
+        print("Calculated using file:",filename,"\nTimeline:", data[-1]["TransactionÂ\xa0Date"], " - ", data[0]["TransactionÂ\xa0Date"], "\nSpent: R", spent, "\n")
+    except: 
+        print( "File: ", filename, "\nSpent: ",spent)
     return spent
 
 if __name__ == "__main__":
