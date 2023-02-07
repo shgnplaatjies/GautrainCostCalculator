@@ -1,6 +1,6 @@
 # Gautrain Cost Calculator
 
-Calculating your Gautrain costs made easy! All you need to do is download your travel history from the [Gautrain website](https://www.gautrain.co.za/account/travelhistory), rename the file to "data.csv", and run the python script. The script will subtract the Gautrain rail user discount from your history and print your total cost. It's like having a financial advisor (disclaimer: not financial advice) for your train trips!
+Calculating your Gautrain costs made easy! All you need to do is download your travel history from the [Gautrain website](https://www.gautrain.co.za/account/travelhistory) and run the python script. The script will search and process all .csv files within the current directory, and subtract the Gautrain rail user discount from your history and print your total cost. It's like having a financial advisor (disclaimer: not financial advice) for your train trips!
 
 ## Features
 
@@ -9,8 +9,7 @@ Calculating your Gautrain costs made easy! All you need to do is download your t
 
 ## Future Plans
 
-- In the future, I plan to make the script work with all .csv files in a directory, so you don't have to rename your file every time. 
-- I also want to add a prompt for adding boundary days, so you can calculate your costs dynamically, without having to filter the csv manually.
+- I also want to add a prompt for adding boundary days, so you can calculate your costs dynamically, without having to filter the csv manually. (gautrain offers that on their website currently)
 
 ## Why?
 
